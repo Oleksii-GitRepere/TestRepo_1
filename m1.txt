@@ -1,4 +1,12 @@
+<<<<<<< Updated upstream
 b1 m1 l1 3
 b1 m1 l2 3
 b_2 m1 l1
 b_2 m1 l2
+=======
+<<<<<<< HEAD
+b_1 m1 l1
+=======
+b_2 m1 l1
+>>>>>>> b2815de (add line b_2 m1 l1 from origin)
+>>>>>>> Stashed changes
